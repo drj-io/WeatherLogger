@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/drj-io/WeatherLogger/issues"
   },
-  "homepage": "https://github.com/drj-io/WeatherLogger#readme"
+  "homepage": "https://github.com/drj-io/WeatherLogger#readme",
+  "dependencies": {
+    "ejs": "^2.4.1",
+    "express": "^4.13.4",
+    "moment-timezone": "^0.5.1",
+    "mysql": "^2.10.2"
+  }
 }
